@@ -1,0 +1,48 @@
+.menubg {
+    background-color: whitesmoke;
+    background-image: url('../images/Family\ Pictures\ Summer\ 2023/8C.jpg');
+    z-index: 2;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.headerbg {
+    background-image: url('../images/depositphotos_385196766-stock-photo-color-storm-series-rendering-colorful.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: underline;
+}
+
+.leftstyle {
+    padding-top: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.familyformat {
+    background-color: whitesmoke;
+    background-image: url('../images/Family\ Pictures\ Summer\ 2023/8C.jpg');
+    z-index: 2;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.parentsbg {
+    background-color: whitesmoke;
+    background-image: url('../images/Family\ Pictures\ Summer\ 2023/6B.jpg');
+    z-index: 2;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
